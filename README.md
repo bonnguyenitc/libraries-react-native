@@ -1,4 +1,4 @@
-## A list libraries for develop mobile application by React Native 2023
+## A list libraries for develop mobile application by React Native 202\*
 
 ### 1. App Icon
 
@@ -31,6 +31,7 @@
   - https://github.com/teslamotors/react-native-camera-kit
 - Map
   - https://github.com/react-native-maps/react-native-maps
+  - https://github.com/rnmapbox/maps
 - Play Video
   - https://github.com/react-native-video/react-native-video
 - Play Sound/Audio
@@ -40,6 +41,8 @@
 - Modal
   - https://github.com/react-native-modal/react-native-modal
   - https://github.com/jacklam718/react-native-modals
+- Portal
+  - https://github.com/magicismight/react-native-root-siblings
 - Popover
   - https://github.com/SteffeyDev/react-native-popover-view
 - SVG
@@ -51,7 +54,7 @@
 - Calendar, Datetime
   - https://github.com/wix/react-native-calendars
   - https://github.com/henninghall/react-native-date-picker
-- Picker
+- Picker Image
   - https://github.com/react-native-image-picker/react-native-image-picker
 - Form, Validate
   - https://react-hook-form.com/
@@ -63,7 +66,7 @@
   - https://github.com/leecade/react-native-swiper
   - https://github.com/dohooo/react-native-reanimated-carousel
   - https://github.com/meliorence/react-native-snap-carousel
-- Lottie component
+- Lottie animation
   - https://github.com/lottie-react-native/lottie-react-native
 - Chart
   - https://www.npmjs.com/package/react-native-chart-kit
@@ -125,11 +128,13 @@
 
 - https://github.com/axios/axios
 - https://github.com/infinitered/apisauce
+- https://tanstack.com/query/latest/docs/react/overview
 
 ### 12. Notification
 
 - https://rnfirebase.io/
 - https://notifee.app/react-native/docs/overview
+- https://github.com/OneSignal/react-native-onesignal
 
 ### 13. Testing
 
@@ -155,7 +160,7 @@
   - https://lodash.com/docs/4.17.15
   - https://ramdajs.com/
   - https://immerjs.github.io/immer/
-- React Helper
+- React Compare Helper
   - https://github.com/FormidableLabs/react-fast-compare
 - Patch package
   - https://github.com/ds300/patch-package
